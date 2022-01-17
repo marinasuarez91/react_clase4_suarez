@@ -1,0 +1,12 @@
+.ItemListContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ItemCard {
+    width: 25%;
+    height: 25%;
+    border: solid black;
+}
